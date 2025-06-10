@@ -63,7 +63,7 @@ python evaluate_prm.py
 [2025/05/30] We're releasing the following components:
 
 - 🚀 **Training**: Complete implementation of our training pipeline
-- 🔥 **[FreePRM Dataset](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)**: Our curated dataset of 28k mathematical questions
+- 🔥 **[FreePRM Dataset](https://huggingface.co/datasets/peiyi9979/Math-Shepherd)**: Our training dataset
 - 🤖 **[FreePRM Model](https://huggingface.co/sunlin-ai/FreePRM)**: Model training with FreePRM (to be update).
   
 
