@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  📄 <a href="https://openreview.net/pdf?id=VsqQzsMYbg" target="_blank">Paper</a> &nbsp; | &nbsp;
+  📄 <a href="https://arxiv.org/abs/2506.03570" target="_blank">Paper</a> &nbsp; | &nbsp;
   🌐 <a href="https://huggingface.co/datasets/peiyi9979/Math-Shepherd" target="_blank">Dataset</a> &nbsp; | &nbsp;
   📘 <a href="https://huggingface.co/sunlin-ai/FreePRM" target="_blank">Model</a>
 </p>
